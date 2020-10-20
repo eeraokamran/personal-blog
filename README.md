@@ -2,7 +2,7 @@
 
 ## Theme Details & Demo
 
-**Demo:** https://themes.3rdwavemedia.com/demo/devresume/
+**Demo:** https://eeraokamran.github.io/personal-blog/
 
 DevResume is a **free Bootstrap 4 resume/CV template** I made for software developers. Built on **Bootstrap 4 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you **build your personal brand and attract better clients**!
 
