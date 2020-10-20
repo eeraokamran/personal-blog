@@ -41,7 +41,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 -  **SCSS** source files included
 -  1000+ FontAwesome 5 icons
 -  Compatible with all modern browsers
-
+Thank you developer for providing best template.
 ## Credits
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
